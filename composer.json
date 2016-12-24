@@ -1,0 +1,16 @@
+{
+    "name": "bjzhush/cpa",
+    "description": "My first composer packet",
+    "authors": [
+        {
+            "name": "bjzhush",
+            "email": "bjzhush@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "bjzhush\\cpa\\": "src/"
+        }
+    }
+}
