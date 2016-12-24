@@ -12,5 +12,8 @@
         "psr-4": {
             "bjzhush\\cpa\\": "src/"
         }
+    },
+   "require": {
+        "php": ">=5.3.0"
     }
 }
